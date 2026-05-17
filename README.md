@@ -28,26 +28,6 @@ This repository is developed as a university Software Project Design and Develop
 - Eloquent ORM, migrations, and seeders
 - Modular code structure with `nwidart/laravel-modules`
 
-## Installed Packages
-
-- `laravel/framework`
-- `laravel/sanctum`
-- `laravel/socialite`
-- `nwidart/laravel-modules`
-- `barryvdh/laravel-dompdf`
-- `intervention/image`
-- `spatie/laravel-backup`
-- `spatie/laravel-sitemap`
-- `razorpay/razorpay`
-- `stripe/stripe-php`
-- `srmklive/paypal`
-- `mollie/laravel-mollie`
-- `mercadopago/dx-php`
-- `cashfree/cashfree-pg`
-- `authorizenet/authorizenet`
-- `vonage/client`
-- `kreait/laravel-firebase`
-
 ## Repository Structure
 
 - `app/` — application source code
